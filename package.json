@@ -1,0 +1,14 @@
+{
+  "name": "RandomScripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ahmedovich <Codekraking@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
